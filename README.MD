@@ -17,3 +17,8 @@ curl -o boot-jdk.tar.gz https://cdn.azul.com/zulu/bin/zulu7.50.0.11-ca-jdk7.0.32
 ```sh
 make all
 ```
+
+
+## Debug
+
+
